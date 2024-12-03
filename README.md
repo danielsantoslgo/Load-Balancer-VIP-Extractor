@@ -1,4 +1,3 @@
-```markdown
 # Load Balancer VIP Extractor
 
 A powerful Python script that does exactly this: it takes raw data from a file and pulls out key information—specifically VIP names and IP addresses from a Load Balancer—and exports it into a CSV file (like a mini spreadsheet).
@@ -13,6 +12,5 @@ A powerful Python script that does exactly this: it takes raw data from a file a
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-```
 
 
