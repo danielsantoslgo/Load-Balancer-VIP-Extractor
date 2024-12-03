@@ -38,8 +38,11 @@ VIP3,172.16.0.2
 ## Installation
 
 1. Clone the repository:
+
    ```bash
+
    git clone https://github.com/danielsantoslgo/Load-Balancer-VIP-Extractor
+
    cd Load-Balancer-VIP-Extractor
    ```
 
