@@ -52,7 +52,9 @@ VIP3,172.16.0.2
 2. Run the script:
    
    ```bash
+   
    python Extract_Data.py
+   
    ```
 
 5. Enter the input and output file paths when prompted, or modify the script to use default paths.
