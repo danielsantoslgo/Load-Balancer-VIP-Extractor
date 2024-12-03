@@ -38,9 +38,11 @@ VIP3,172.16.0.2
 ## Installation
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/danielsantoslgo/Balancer-VIP-Extractor.git
    cd Balancer-VIP-Extractor
+ ```,
 
 
 2. Ensure you have Python 3 installed.
